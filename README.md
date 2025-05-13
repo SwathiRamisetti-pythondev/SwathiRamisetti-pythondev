@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Baby Swathi Ramisetti
 
 🎓 **Master's Student in Information Technology Management**  
-📍 Golden Gate University, San Francisco (Remote from Portland, OR)  
+📍 Golden Gate University, San Francisco  
 🔍 Focused on Python Development • Data Analytics • Full-Stack Projects • Business Intelligence
 
 ---
