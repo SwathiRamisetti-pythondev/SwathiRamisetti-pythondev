@@ -1,60 +1,56 @@
 # 👋 Hi, I'm Baby Swathi Ramisetti
 
-🎓 **Master’s Student in Information Technology Management**  
+🎓 **Master's Student in Information Technology Management**  
 📍 Golden Gate University, San Francisco (Remote from Portland, OR)  
-💡 Passionate about Python Development • Data Analytics • Full-Stack Projects
+🔍 Focused on Python Development • Data Analytics • Full-Stack Projects • Business Intelligence
 
 ---
 
-## 🧠 About Me
-
-I’m a graduate student with a strong foundation in Python development, full-stack web applications, and business data analytics. I love building impactful tools that simplify workflows, improve user experience, and transform raw data into strategic insights. My goal is to bridge the gap between technology and business using scalable and intelligent solutions.
-
----
-
-## 🔧 Tech Stack
-
-**Languages**: Python | C | HTML/CSS  
-**Frameworks/Tools**: Django | BeautifulSoup | Jupyter Notebook | GitHub | VS Code | PyCharm  
-**Databases**: MySQL | SQL  
-**Analytics**: Excel | Tableau | Data Cleaning | Dashboards  
-**Cloud**: AWS | Azure | Google Cloud  
-**Practices**: Agile | SDLC | Prompt Engineering | DSA
+## 🧠 About Me  
+I’m an IT professional with 3 years of experience in Python development, data analysis, and business reporting.  
+I love building scalable web applications, solving real-world problems with data, and turning business needs into intelligent, automated solutions.  
 
 ---
 
-## 💼 Experience
+## 🔧 Tech Stack  
 
-### 🧠 Python Developer Intern — *Sai Business Solutions, LLC* (Jan 2025 – Apr 2025)
-- Developed a Customer Feedback Analytics Platform using Django & MySQL.
-- Automated data scraping and sentiment analysis using Python and BeautifulSoup.
-- Designed dashboards in Tableau and Excel to visualize customer sentiment trends.
-
-### 👩‍💼 Analyst A4 (Python Full Stack Developer) — *Capgemini* (Mar 2023 – Jul 2023)
-- Built an Employee Management System that reduced HR processing time by 35%.
-- Developed RESTful APIs and secure login features using Django.
-- Optimized backend performance using Django ORM and MySQL.
-
-### 🌍 Web Designer Intern — *QITECH (Triporey Project)* (Jan 2022 – Jun 2022)
-- Designed responsive travel website pages using WordPress and custom CSS.
-- Improved user experience and boosted engagement by 20%.
+**Languages:** Python | C | HTML | CSS  
+**Frameworks/Tools:** Django | BeautifulSoup | Jupyter Notebook | GitHub | VS Code | PyCharm  
+**Databases:** MySQL | PostgreSQL | SQL  
+**Analytics:** Excel | Tableau | Pandas | NumPy | Data Cleaning | Dashboards  
+**Cloud:** AWS | Azure | Google Cloud  
+**Practices:** Agile | SDLC | Prompt Design | DSA | REST APIs | Unit Testing
 
 ---
 
-## 📊 Projects
+## 💼 Experience  
 
-### [📈 Interactive Sales Analytics Dashboard](#)
-- Built with SQL, Excel, and Tableau to analyze trends, ratings, and discounts.
-- Automated data preprocessing, reducing manual work by 40%.
+**🔹 Python Developer Intern** – *Sai Business Solutions, LLC (Jan 2025 – Apr 2025)*  
+Worked on a Consumer Feedback Analytics platform using Django and MySQL. Designed dashboards and performed sentiment analysis using Python and Tableau.
 
-### [🛍 Real-Time E-Commerce Data Aggregation](#)
-- Python-based solution to collect and validate competitor pricing data.
-- Enhanced pricing accuracy by 40% for better decision-making.
+**🔹 Analyst A4** – *Capgemini (Mar 2023 – Jul 2023)*  
+Built an automated financial reporting system for Four Seasons Hotels using Python, SQL, and Excel, improving reporting accuracy and process efficiency.
+
+**🔹 Web Developer and Analyst** – *QIMedia (Jun 2021 – Feb 2023)*  
+Designed and deployed 15+ responsive microsites for local businesses using WordPress. Integrated SEO and analytics tools, improving user engagement.
+
+**🔹 Software Developer Intern** – *ENut Technologies Pvt Ltd (Jun 2020 – Dec 2020)*  
+Developed a CRM system for MediPlus Diagnostics using Django. Built custom forms, dashboards, and improved backend data handling.
 
 ---
 
-## 📫 Contact
+## 📊 Projects  
 
+**📈 Interactive Sales Analytics Dashboard**  
+SQL + Excel + Tableau dashboard to analyze trends, discounts, and ratings — reduced manual reporting by 40%.
+
+**🛒 Real-Time E-Commerce Data Aggregation**  
+Python-based scraper to compare competitor pricing. Cleaned and structured data with BeautifulSoup and Pandas.
+
+---
+
+## 📫 Contact Me  
 📧 Email: swathiramisetti20@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/rbs-swathi/)  
-💻 GitHub: [Your GitHub Profile Link Here]
+🔗 [LinkedIn](https://www.linkedin.com/in/rbs-swathi/)  
+🔗 [GitHub](https://github.com/SwathiRamisetti-pythondev)
+
